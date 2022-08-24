@@ -1,13 +1,13 @@
 ---
 title: "AnVIL: Epigenetics Intro"
-date: "August 23, 2022"
+date: "August 24, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
 description: Description about Course/Book.
-favicon: assets/anvil_favicon.ico
+favicon: assets/AnVIL_style/anvil_favicon.ico
 ---
 
 
@@ -29,9 +29,14 @@ Please check out our full collection of AnVIL and related resources below!
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> [AnVIL Phylogenetic-Techniques](https://jhudatascience.org/AnVIL_Phylogenetic-Techniques/) ([github](https://github.com/jhudsl/AnVIL_Phylogenetic-Techniques)) </td>
+   <td style="text-align:left;"> https://jhudatascience.org/AnVIL_Phylogenetic-Techniques/ </td>
+   <td style="text-align:left;"> anvil </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> [AnVIL: Getting Started](https://jhudatascience.org/AnVIL_Book_Getting_Started) ([github](https://github.com/jhudsl/AnVIL_Book_Getting_Started)) </td>
    <td style="text-align:left;"> A guide for getting started using AnVIL </td>
-   <td style="text-align:left;"> anvil </td>
+   <td style="text-align:left;"> anvil, cloud-computing </td>
   </tr>
   <tr>
    <td style="text-align:left;"> [AnVIL: Instructor Guide](https://jhudatascience.org/AnVIL_Book_Instructor_Guide) ([github](https://github.com/jhudsl/AnVIL_Book_Instructor_Guide)) </td>
@@ -46,7 +51,7 @@ Please check out our full collection of AnVIL and related resources below!
   <tr>
    <td style="text-align:left;"> [GDSCN: Statistics for Genomics Differential Expression](https://jhudatascience.org/GDSCN_Book_Statistics_for_Genomics_Differential_Expression/) ([github](https://github.com/jhudsl/GDSCN_Book_Statistics_for_Genomics_Differential_Expression)) </td>
    <td style="text-align:left;"> A set of lab modules for an introduction to differential gene expression </td>
-   <td style="text-align:left;"> anvil </td>
+   <td style="text-align:left;"> anvil, cloud-computing, gene-expression </td>
   </tr>
   <tr>
    <td style="text-align:left;"> [GDSCN: Statistics for Genomics PCA](https://jhudatascience.org/GDSCN_Book_Statistics_for_Genomics_PCA/) ([github](https://github.com/jhudsl/GDSCN_Book_Statistics_for_Genomics_PCA)) </td>
@@ -61,11 +66,6 @@ Please check out our full collection of AnVIL and related resources below!
   <tr>
    <td style="text-align:left;"> [GDSCN: Statistics for Genomics scRNA-seq](http://jhudatascience.org/GDSCN_Book_Statistics_for_Genomics_SCRNA-seq/) ([github](https://github.com/jhudsl/GDSCN_Book_Statistics_for_Genomics_scRNA-seq)) </td>
    <td style="text-align:left;"> A set of lab modules for single cell RNA-seq analysis </td>
-   <td style="text-align:left;"> anvil </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> [phylogenetic-techniques](https://jhudatascience.org/phylogenetic-techniques/) ([github](https://github.com/jhudsl/phylogenetic-techniques)) </td>
-   <td style="text-align:left;"> https://jhudatascience.org/phylogenetic-techniques/ </td>
    <td style="text-align:left;"> anvil </td>
   </tr>
 </tbody>
