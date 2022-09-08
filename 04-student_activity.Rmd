@@ -4,7 +4,7 @@
 
 ## Launch the Genome Browser Gateway
 
-Go to [https://genome.ucsc.edu/cgi-bin/hgGateway](https://genome.ucsc.edu/cgi-bin/hgGateway). The landing page looks like this. "Human" is selected by default under "Browse/Select Species".  
+Go to [`https://genome.ucsc.edu/cgi-bin/hgGateway`](https://genome.ucsc.edu/cgi-bin/hgGateway). The landing page looks like this. "Human" is selected by default under "Browse/Select Species".  
 
 ```{r, fig.align='center', echo = FALSE, fig.alt= "Landing page for the UCSC Genome browser Gateway"}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g15625333d53_0_2")
