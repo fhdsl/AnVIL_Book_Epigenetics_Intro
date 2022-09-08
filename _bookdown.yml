@@ -6,8 +6,7 @@ rmd_files: ["index.Rmd",
             "02-lesson-plan.Rmd",
             "03-background_lectures.Rmd",
             "04-student_activity.Rmd",
-            "About.Rmd",
-            "References.Rmd"]
+            "About.Rmd"]
 new_session: yes
 bibliography: [book.bib]
 delete_merged_file: true
