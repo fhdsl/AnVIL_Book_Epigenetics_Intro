@@ -6,20 +6,41 @@
 
 Go to [`https://genome.ucsc.edu/cgi-bin/hgGateway`](https://genome.ucsc.edu/cgi-bin/hgGateway). Ensure "Human" is selected under "Browse/Select Species".  
 
-```{r, fig.align='center', echo = FALSE, fig.alt= "Landing page for the UCSC Genome browser Gateway.", width = '100%'}
+```{r, fig.align='center', echo = FALSE, fig.alt= "Landing page for the UCSC Genome browser Gateway.", out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g15625333d53_0_2")
 ```
 
 You will be working from the Human Assembly **March 2006 (NCBI/hg18)**. Make sure this is selected under the "Find Position" dropdown menu. Enter **HOXA7** in Position/Search Term and select GO. 
 
-```{r, fig.align='center', echo = FALSE, fig.alt= "March 2006 assembly is highlighted on the Find Position dropdown menu."}
+```{r, fig.align='center', echo = FALSE, fig.alt= "March 2006 assembly is highlighted on the Find Position dropdown menu.", out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g15625333d53_0_7")
 ```
 
 Your Genome Browser should now look like this:
 
-```{r, fig.align='center', echo = FALSE, fig.alt= "March 2006 assembly results for the HOXA7 locus."}
+```{r, fig.align='center', echo = FALSE, fig.alt= "March 2006 assembly results for the HOXA7 locus.", out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g15625333d53_0_22")
 ```
 
 ## Clean up Visual Settings
+
+You’ll now use the following directions to remove the default visual settings.
+
+Scroll below to different menu options shown. 
+
+* Under the "Mapping and Sequence" tab, Base Position should be set to **dense**. 
+* Under the "Genes and Gene Predictions" tab,  RefSeq Genes should be set to **pack**.  
+* All other features should be marked as **hide**. You will need to go through each of the menu options to make sure features are marked as “hide”. Please note you will need to open each menu option by select the  “+” to ensure all tracks are turned off (marked as hide). 
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "The Base Position menu has been set to 'dense'.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g15625333d53_0_29")
+```
+```{r, fig.align='center', echo = FALSE, fig.alt= "The RefSeq Genes menu has been set to 'pack'.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g15625333d53_0_33")
+```
+
+At the end of the browser page, select "refresh". 
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "The refresh button at the bottom of the page is highlighted.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g15625333d53_0_41")
+```
