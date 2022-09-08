@@ -21,20 +21,17 @@ Coming soon!
 
 # Epigenetics in the Media
 
-## Exploring the history of epigenetics, and what the future may hold for the field
-
-<iframe id="inlineFrameExample"
-    title="Inline Frame Example"
-    width=80%
-    height=80%
-    src="https://www.nature.com/articles/d41586-019-03877-7">
-</iframe>
-
 ## The Legacy of Trauma: Can Experiences Leave A Biological Imprint?
 
+Can epigenetics explain why descendants of trauma victims seem to have worse health outcomes? Bianca Jones Marlin and Brian Dias dive into epigenetics and its role in trauma inheritance on the [Shortwave Podcast](https://www.npr.org/2020/12/16/947232031/the-legacy-of-trauma-can-experiences-leave-a-biological-imprint). 
+
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
-    width=80%
-    height=80%
+    width=95%
+    height=300
     src="https://www.npr.org/2020/12/16/947232031/the-legacy-of-trauma-can-experiences-leave-a-biological-imprint">
 </iframe>
+
+## Exploring the history of epigenetics, and what the future may hold for the field
+
+In [this Nature Podcast Extra](https://www.nature.com/articles/d41586-019-03877-7), Nick Howe speaks to Edith Heard, Director General of the EMBL, and Giacomo Cavalli, from the Institute of Human Genetics, exploring the history and future of epigenetics.
