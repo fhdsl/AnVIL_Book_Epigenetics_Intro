@@ -25,16 +25,16 @@ Coming soon!
 
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
-    width="300"
-    height="200"
-    src="https://www.nature.com/articles/d41586-019-03877-7#MO0">
+    width=80%
+    height=80%
+    src="https://www.nature.com/articles/d41586-019-03877-7">
 </iframe>
 
 ## The Legacy of Trauma: Can Experiences Leave A Biological Imprint?
 
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
-    width="300"
-    height="200"
+    width=80%
+    height=80%
     src="https://www.npr.org/2020/12/16/947232031/the-legacy-of-trauma-can-experiences-leave-a-biological-imprint">
 </iframe>
