@@ -3,11 +3,14 @@ BIPOC
 Bloomberg
 callout
 Callout
+Cavalli
 ChIP
 dropdown
+EMBL
 epigenetics
 Epigenetics
 GDSCN
+Giacomo
 Gmail
 impactful
 mentorship
