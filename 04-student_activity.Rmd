@@ -75,7 +75,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU
 You could also enter **chr7:27,087,367-27,235,317** in the search bar at the start of this exercise instead of HOXA7. 
 </div>
 
-## Visualizing Histone Marks
+## Selecting Histone Marks
 
 Now we’ll visualize histone marks to show that the same chromosome locus can have drastically different histone patterns.
 
@@ -83,12 +83,6 @@ Scroll down to the "Regulation" menu and click the **Broad Histone** track hyper
 
 ```{r, fig.align='center', echo = FALSE, fig.alt= "The Broad Histone track hyperlink is highlighted.", out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_0_0")
-```
-
-Ensure you have selected **full** under the "Peaks" menu.
-
-```{r, fig.align='center', echo = FALSE, fig.alt= "Full is selected under the Peaks dropdown menu.", out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_1_3")
 ```
 
 Scroll down and deselect all boxes.
@@ -119,12 +113,24 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU
 The **H1-hESC** cell line consists of embryonic stem cells.
 
 ```{r, fig.align='center', echo = FALSE, fig.alt= "The table of statistics on H1-hESC cell line.", out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_1_26")
+ottrpal::include_slide("https://docs.google.com/presentation/d/168_SEzhTcmge7pyyj6Fd9Xx62m2LUUGukwtQsKDExZM/edit#slide=id.g152864d5909_0_4")
 ```
 
 The **NHLF** cell line consists of lung fibroblasts.
 
 ```{r, fig.align='center', echo = FALSE, fig.alt= "The table of statistics on NHLF cell line.", out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_1_29")
+ottrpal::include_slide("https://docs.google.com/presentation/d/168_SEzhTcmge7pyyj6Fd9Xx62m2LUUGukwtQsKDExZM/edit#slide=id.g152864d5909_0_0")
 ```
 </div>
+
+Scroll below and deselect the Peak views. You will only need Signal views. 
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "The table of statistics on NHLF cell line.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_53_0")
+```
+
+Your selected subtracks should only display Signal views as shown below. 
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "The table of statistics on NHLF cell line.", out.width = '100%'}
+ottrpal::include_slide("")
+```
