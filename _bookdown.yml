@@ -1,16 +1,12 @@
-book_filename: "Course_Name"
+book_filename: "Epigenetics: Nature vs Nurture"
 chapter_name: "Chapter "
-repo: https://github.com/jhudsl/AnVIL_Template/
+repo: https://github.com/fhdsl/AnVIL_Book_Epigenetics_Intro
 rmd_files: ["index.Rmd",
             "01-overview.Rmd",
             "02-lesson-plan.Rmd",
-            "03-background.Rmd",
-            "03-AnVIL_modules.Rmd",
-            "04-workspace_modules.Rmd",
-            "05-billing_modules.Rmd",
-            "06-onboarding_modules.Rmd",
-            "About.Rmd",
-            "References.Rmd"]
+            "03-background_lectures.Rmd",
+            "04-student_activity.Rmd",
+            "About.Rmd"]
 new_session: yes
 bibliography: [book.bib]
 delete_merged_file: true
