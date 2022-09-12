@@ -113,24 +113,66 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU
 The **H1-hESC** cell line consists of embryonic stem cells.
 
 ```{r, fig.align='center', echo = FALSE, fig.alt= "The table of statistics on H1-hESC cell line.", out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/168_SEzhTcmge7pyyj6Fd9Xx62m2LUUGukwtQsKDExZM/edit#slide=id.g152864d5909_0_4")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_53_0")
 ```
 
-The **NHLF** cell line consists of lung fibroblasts.
+The **NHLF** cell line consists of lung fibroblasts. Fibroblasts are important for building the connective structures around cells and healing wounds.
 
 ```{r, fig.align='center', echo = FALSE, fig.alt= "The table of statistics on NHLF cell line.", out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/168_SEzhTcmge7pyyj6Fd9Xx62m2LUUGukwtQsKDExZM/edit#slide=id.g152864d5909_0_0")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_70_1")
 ```
 </div>
 
 Scroll below and deselect the Peak views. You will only need Signal views. 
 
-```{r, fig.align='center', echo = FALSE, fig.alt= "The table of statistics on NHLF cell line.", out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_53_0")
+```{r, fig.align='center', echo = FALSE, fig.alt= "Peak check boxes are highlighted.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_70_5")
 ```
 
-Your selected subtracks should only display Signal views as shown below. 
+Your selected subtracks should only display Signal views as shown below. Click "Submit".
 
-```{r, fig.align='center', echo = FALSE, fig.alt= "The table of statistics on NHLF cell line.", out.width = '100%'}
-ottrpal::include_slide("")
+```{r, fig.align='center', echo = FALSE, fig.alt= "Only Signal views are visible among subtracks. The Submit button is highlighted", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_70_13")
+```
+
+Scroll down, and your browser should look like the image below. 
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "Histone marks are shown below the HOXA loci in the genome browser.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_70_18")
+```
+
+## Comparing Histone Marks
+
+Let's first examine the **H1-hESC** cell line (embryonic stem cells).
+
+Signals are high for the H3K27me3 histone mark. You’ll also notice that H3K4me3 signals are minimal. This signal pattern demonstrates that embryonic stem cells are in the repressed chromatin configuration at the HOXA locus and indicates that HOXA genes in blue are not expressed in this cell line. 
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "High signals for the H3K27me3 histone mark in the H1-hESC cell line indicate these genes are not expressed in these cells.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_70_22")
+```
+
+Now, let's examine the **NHLF** cell line (lung fibroblasts).
+
+The pattern is different for NHLF. H3K4me3 signals are high for the first half of the HOXA locus, but low for the second half of the locus. 
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "H3K4me3 signals are high then low in the genome browser.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_70_30")
+```
+
+H3K27me3 signals are low and then high for the same locus. 
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "H3K27me3 signals are low then high in the genome browser.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_70_35")
+```
+
+This signal pattern demonstrates that for lung fibroblasts only half of the HOXA locus is expressed while the other half is not expressed. Specifically, we can use the full image to see that HOXA1-7 are expressed (turned on).
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "HOXA1 through 7 are highlighted to indicate expression is turned on.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_70_40")
+```
+
+We can also see that HOXA9-13 is not expressed (turned off). 
+
+```{r, fig.align='center', echo = FALSE, fig.alt= "HOXA9 through 13 are highlighted to indicate expression is turned off.", out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4/edit#slide=id.g152864d54a7_70_46")
 ```
