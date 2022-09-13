@@ -1,6 +1,6 @@
 ---
 title: "AnVIL: Epigenetics Intro"
-date: "September 12, 2022"
+date: "September 13, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -30,8 +30,8 @@ Please check out our full collection of AnVIL and related resources below!
 <tbody>
   <tr>
    <td style="text-align:left;"> [AnVIL Phylogenetic-Techniques](https://jhudatascience.org/AnVIL_Phylogenetic-Techniques/) ([github](https://github.com/jhudsl/AnVIL_Phylogenetic-Techniques)) </td>
-   <td style="text-align:left;"> https://jhudatascience.org/AnVIL_Phylogenetic-Techniques/ </td>
-   <td style="text-align:left;"> anvil </td>
+   <td style="text-align:left;"> A semester-long course on the basics of molecular phylogenetic techniques </td>
+   <td style="text-align:left;"> anvil, r-programming </td>
   </tr>
   <tr>
    <td style="text-align:left;"> [AnVIL: Getting Started](https://jhudatascience.org/AnVIL_Book_Getting_Started) ([github](https://github.com/jhudsl/AnVIL_Book_Getting_Started)) </td>
