@@ -11,7 +11,7 @@ These credits are based on our [course contributors table guidelines](https://gi
 |-------|-----|
 |**Pedagogy**||
 | Lead Content Instructor | Ifeoma Nwigwe |
-| Content Reviewers | Katherine Cox, Natalie Kucher|
+| Content Reviewers | Elizabeth Humphries, Natalie Kucher|
 | Content Director | [Ava Hoffman]|
 |**Technical**||
 | Course Publishing Engineer | [Ava Hoffman]|
