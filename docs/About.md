@@ -10,12 +10,12 @@ These credits are based on our [course contributors table guidelines](https://gi
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-| Lead Content Instructor | Ifeoma Nwigwe |
-| Content Reviewers | Elizabeth Humphries, Natalie Kucher|
-| Content Director | [Ava Hoffman]|
+| Lead Content Instructor | [Ifeoma Nwigwe] |
+| Content Reviewers | Elizabeth Humphries, Natalie Kucher |
+| Content Director | [Ava Hoffman] |
 |**Technical**||
-| Course Publishing Engineer | [Ava Hoffman]|
-| Template Publishing Engineers |[Candace Savonen], [Carrie Wright]|
+| Course Publishing Engineer | [Ava Hoffman] |
+| Template Publishing Engineers | [Candace Savonen], [Carrie Wright] |
 | Publishing Maintenance Engineer |[Candace Savonen]|
 | Technical Publishing Stylists |[Carrie Wright], [Candace Savonen]|
 | Package Developers ([ottrpal]) |[John Muschelli], [Candace Savonen], [Carrie Wright]|
@@ -37,7 +37,7 @@ These credits are based on our [course contributors table guidelines](https://gi
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2022-09-13                  
+##  date     2022-09-16                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version    date       lib source                            
@@ -91,6 +91,7 @@ These credits are based on our [course contributors table guidelines](https://gi
 [Candace Savonen]: https://www.cansavvy.com/
 [Carrie Wright]: https://carriewright11.github.io/
 [Ava Hoffman]: https://www.avahoffman.com
+[Ifeoma Nwigwe]: https://www.linkedin.com/in/ifeoma-nwigwe-obiora-phd-5877b316/
 
 <!-- Links -->
 

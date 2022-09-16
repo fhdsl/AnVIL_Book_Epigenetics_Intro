@@ -1,9 +1,3 @@
-overview
-motivation
-target-audience
-learning-objectives-lesson-plan
-learning-objectives
-lesson-plan
 nature-versus-nurture
 chip-seq-techniques
 epigenetics-in-the-media
