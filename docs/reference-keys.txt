@@ -2,6 +2,8 @@ nature-versus-nurture
 chip-seq-techniques
 epigenetics-in-the-media
 the-legacy-of-trauma-can-experiences-leave-a-biological-imprint
+finding-out-if-more-than-your-dna-passes-on-to-the-next-generation
+instructions-for-life-how-food-stress-and-our-genes-shape-our-health
 exploring-the-history-of-epigenetics-and-what-the-future-may-hold-for-the-field
 explore-the-epigenome
 launch-the-genome-browser-gateway

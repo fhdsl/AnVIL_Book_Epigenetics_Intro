@@ -1,6 +1,6 @@
 ---
 title: "AnVIL: Epigenetics Intro"
-date: "September 16, 2022"
+date: "October 03, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -85,7 +85,7 @@ Please check out our full collection of AnVIL and related resources below!
    <td style="text-align:left;"> anvil </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> [GDSCN: Statistics for Genomics scRNA-seq](http://jhudatascience.org/GDSCN_Book_Statistics_for_Genomics_SCRNA-seq/) ([github](https://github.com/jhudsl/GDSCN_Book_Statistics_for_Genomics_scRNA-seq)) </td>
+   <td style="text-align:left;"> [GDSCN: Statistics for Genomics scRNA-seq](http://jhudatascience.org/GDSCN_Book_Statistics_for_Genomics_scRNA-seq/) ([github](https://github.com/jhudsl/GDSCN_Book_Statistics_for_Genomics_scRNA-seq)) </td>
    <td style="text-align:left;"> A set of lab modules for single cell RNA-seq analysis </td>
    <td style="text-align:left;"> anvil </td>
   </tr>
