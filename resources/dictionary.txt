@@ -1,4 +1,5 @@
 AnVIL
+Arney
 BIPOC
 Bloomberg
 callout
@@ -18,6 +19,8 @@ Epigenome
 euchromatin
 Fibroblasts
 fibroblasts
+Galaxy project
+usegalaxy
 GDSCN
 germline
 Giacomo
@@ -29,6 +32,7 @@ Histone
 histone
 HOXA
 impactful
+Kat
 lysine
 mentorship
 NCI
