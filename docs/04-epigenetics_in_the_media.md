@@ -1,0 +1,35 @@
+# Epigenetics in the Media
+
+## The Legacy of Trauma: Can Experiences Leave A Biological Imprint?
+
+Can epigenetics explain why descendants of trauma victims seem to have worse health outcomes? Bianca Jones Marlin and Brian Dias dive into epigenetics and its role in trauma inheritance on the [Shortwave Podcast](https://www.npr.org/2020/12/16/947232031/the-legacy-of-trauma-can-experiences-leave-a-biological-imprint). 
+
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width=95%
+    height=300
+    src="https://www.npr.org/2020/12/16/947232031/the-legacy-of-trauma-can-experiences-leave-a-biological-imprint">
+</iframe>
+
+## Finding out if more than your DNA passes on to the next generation
+
+In [this episode](https://geneticsunzipped.com/blog/2020/7/16/s315-pimp-my-genome-the-wonderful-world-of-epigenetics) of Genetics Unzipped, Dr. Kat Arney takes a look at the world of epigenetics - finding out if more than DNA passes on to the next generation, whether Darwin was wrong and Lamarck was right, and how to pimp your genome.
+
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width=95%
+    height=300
+    src="https://geneticsunzipped.com/blog/2020/7/16/s315-pimp-my-genome-the-wonderful-world-of-epigenetics">
+</iframe>
+
+## Instructions for Life: How Food, Stress, and Our Genes Shape Our Health
+
+In [this episode](https://sph.umich.edu/podcast/season2/epigenetics.html) of Population Healthy, Experts from the University of Michigan School of Public Health unpack how our genes respond to changes in our diets, stress levels, and exposure to toxins—and what these interactions mean for human health.
+
+## Exploring the history of epigenetics, and what the future may hold for the field
+
+In [this Nature Podcast Extra](https://www.nature.com/articles/d41586-019-03877-7), Nick Howe speaks to Edith Heard, Director General of the EMBL, and Giacomo Cavalli, from the Institute of Human Genetics, exploring the history and future of epigenetics.
+
+## The Effect of lncRNAs on Chromatin and Gene Regulation (John Rinn)
+
+In [this episode of Epigenetics Podcast](https://activemotif.podbean.com/e/the-effect-of-lncrnas-on-chromatin-and-gene-regulation-john-rinn/), Dr. John Rinn from the University of Colorado in Boulder discusses the role of long noncoding RNAs (lncRNAs) in regulating the expression of genes and chromatin organization.
