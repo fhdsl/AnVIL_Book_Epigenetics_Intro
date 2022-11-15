@@ -6,7 +6,7 @@ rmd_files: ["index.Rmd",
             "02-background_lectures.Rmd",
             "03-chipseq.Rmd",
             "04-epigenetics_in_the_media.Rmd",
-            "05-student_activity.Rmd",
+            "05-explore_the_epigenome.Rmd",
             "About.Rmd"]
 new_session: yes
 bibliography: [book.bib]
