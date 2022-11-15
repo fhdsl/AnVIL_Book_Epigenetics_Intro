@@ -53,11 +53,4 @@ In [this Nature Podcast Extra](https://www.nature.com/articles/d41586-019-03877-
 
 ## The Effect of lncRNAs on Chromatin and Gene Regulation (John Rinn)
 
-In [this episode](https://activemotif.podbean.com/e/the-effect-of-lncrnas-on-chromatin-and-gene-regulation-john-rinn/) of Epigenetics Podcast, Dr. John Rinn from the University of Colorado in Boulder discusses the role of long noncoding RNAs (lncRNAs) in regulating the expression of genes and chromatin organization.
-
-<iframe id="inlineFrameExample"
-    title="Inline Frame Example"
-    width=95%
-    height=300
-    src="https://activemotif.podbean.com/e/the-effect-of-lncrnas-on-chromatin-and-gene-regulation-john-rinn/">
-</iframe>
+In [this episode of Epigenetics Podcast](https://activemotif.podbean.com/e/the-effect-of-lncrnas-on-chromatin-and-gene-regulation-john-rinn/), Dr. John Rinn from the University of Colorado in Boulder discusses the role of long noncoding RNAs (lncRNAs) in regulating the expression of genes and chromatin organization.
