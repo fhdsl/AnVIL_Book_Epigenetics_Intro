@@ -50,3 +50,7 @@ In [this episode](https://sph.umich.edu/podcast/season2/epigenetics.html) of Pop
 ## Exploring the history of epigenetics, and what the future may hold for the field
 
 In [this Nature Podcast Extra](https://www.nature.com/articles/d41586-019-03877-7), Nick Howe speaks to Edith Heard, Director General of the EMBL, and Giacomo Cavalli, from the Institute of Human Genetics, exploring the history and future of epigenetics.
+
+## The Effect of lncRNAs on Chromatin and Gene Regulation (John Rinn)
+
+In [this episode of Epigenetics Podcast](https://activemotif.podbean.com/e/the-effect-of-lncrnas-on-chromatin-and-gene-regulation-john-rinn/), Dr. John Rinn from the University of Colorado in Boulder discusses the role of long noncoding RNAs (lncRNAs) in regulating the expression of genes and chromatin organization.
