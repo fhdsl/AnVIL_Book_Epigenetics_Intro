@@ -2,9 +2,9 @@ book_filename: "Epigenetics: Nature vs Nurture"
 chapter_name: "Chapter "
 repo: https://github.com/fhdsl/AnVIL_Book_Epigenetics_Intro
 rmd_files: ["index.Rmd",
-            "01-instructor_guide.Rmd",
+            #"01-instructor_guide.Rmd",
             "02-background_lectures.Rmd",
-            "03-chipseq.Rmd",
+            #"03-chipseq.Rmd",
             "04-epigenetics_in_the_media.Rmd",
             "05-explore_the_epigenome.Rmd",
             "About.Rmd"]
