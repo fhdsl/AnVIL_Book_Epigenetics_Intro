@@ -1,3 +1,7 @@
 # ChIP-seq Techniques
 
 Coming soon!
+
+## Data
+
+Downloading from SRA (https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA517606&o=acc_s%3Aa) is insanely slow.
