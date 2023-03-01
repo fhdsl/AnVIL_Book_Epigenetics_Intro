@@ -1,5 +1,5 @@
 ---
-title: "AnVIL: Epigenetics Intro"
+title: "Epigenetics on AnVIL: Nature vs Nurture"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -13,7 +13,7 @@ favicon: assets/AnVIL_style/anvil_favicon.ico
 
 # Overview {-}
 
-This book is part of a series of books for the Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL) of the National Human Genome Research Institute (NHGRI). Learn more about AnVIL by visiting `https://anvilproject.org` or reading the [article in Cell Genomics](https://www.sciencedirect.com/science/article/pii/S2666979X21001063).
+This activity is intended to serve as an introduction to the field of epigenetics, or the idea of "nature versus nurture". The first activity, [Explore the Epigenome](explore-the-epigenome#launch-the-genome-browser-gateway) leverages the UCSC Genome Browser - a powerful tool for visualizing genomic differences. This book is part of a series of books for the Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL) of the National Human Genome Research Institute (NHGRI). 
 
 ## Skills Level {-}
 
@@ -36,21 +36,8 @@ Learning objectives for this activity come from the [Genetics Core Competencies]
 - Discuss environmental impacts on epigenetic systems.  
 - Describe how differential histone modification modulates gene activity and is utilized in developmental progression.  
 
-## AnVIL Collection {-}
+### AnVIL Collection {-}
 
-Please check out our full collection of AnVIL and related resources below!
+Additional guides are provided to help you with Workspaces, launch interactive tools, and start working with data. Learn more about AnVIL by visiting https://anvilproject.org or reading the [article in Cell Genomics](https://www.sciencedirect.com/science/article/pii/S2666979X21001063).
 
-```{r, echo = FALSE, message = FALSE, warning = FALSE}
-source("scripts/anvil_repo_table.R")
-
-# Add below any repositories that should not be added
-exclude = c(
-  "anvil-intro",
-  "AnVIL_Template",
-  "AnVIL_Template_Test",
-  "GDSCN_bookdown_style"
-)
-
-# Create table for AnVIL repos detected through the API
-knitr::kable(make_anvil_repo_table(exclude), format = "html")
-```
+Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
