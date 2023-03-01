@@ -1,5 +1,4 @@
 nature-versus-nurture
-chip-seq-techniques
 epigenetics-in-the-media
 the-legacy-of-trauma-can-experiences-leave-a-biological-imprint
 finding-out-if-more-than-your-dna-passes-on-to-the-next-generation
