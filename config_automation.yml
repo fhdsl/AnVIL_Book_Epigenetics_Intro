@@ -20,5 +20,5 @@ render-leanpub: no
 render-coursera: no
 
 # What docker image should be used for rendering?
-# The default is 'jhudsl/ottr_base:main'
-rendering-docker-image: 'jhudsl/ottr_base:main'
+# The default is 'jhudsl/base_ottr:main'
+rendering-docker-image: 'jhudsl/base_ottr:main'
