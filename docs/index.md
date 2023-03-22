@@ -6,7 +6,7 @@ documentclass: book
 bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
-description: Description about Course/Book.
+description: "Introduction to Epigenetics"
 favicon: assets/AnVIL_style/anvil_favicon.ico
 ---
 

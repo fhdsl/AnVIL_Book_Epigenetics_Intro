@@ -6,6 +6,37 @@
 
 Go to [`https://genome.ucsc.edu/cgi-bin/hgGateway`](https://genome.ucsc.edu/cgi-bin/hgGateway). Ensure "Human" is selected under "Browse/Select Species".  
 
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_unnamed' by
+## 'rlang::check_dots_unnamed' when loading 'tibble'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_used' by
+## 'rlang::check_dots_used' when loading 'tibble'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_empty' by
+## 'rlang::check_dots_empty' when loading 'tibble'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_unnamed' by
+## 'rlang::check_dots_unnamed' when loading 'pillar'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_used' by
+## 'rlang::check_dots_used' when loading 'pillar'
+```
+
+```
+## Warning: replacing previous import 'ellipsis::check_dots_empty' by
+## 'rlang::check_dots_empty' when loading 'pillar'
+```
+
 <img src="05-explore_the_epigenome_files/figure-html//1B7y_jm8GuHZMUvTU1TFdW4nqQQV6nOT9XuFwgSflXz4_g15625333d53_0_2.png" title="Landing page for the UCSC Genome browser Gateway." alt="Landing page for the UCSC Genome browser Gateway." width="100%" style="display: block; margin: auto;" />
 
 You will be working from the Human Assembly **March 2006 (NCBI/hg18)**. Make sure this is selected under the "Find Position" dropdown menu. Enter **HOXA7** in Position/Search Term and select GO. 
