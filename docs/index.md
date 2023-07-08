@@ -1,12 +1,12 @@
 ---
 title: "Epigenetics on AnVIL: Nature vs Nurture"
-date: "March 22, 2023"
+date: "May 24, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
-description: Description about Course/Book.
+description: "Introduction to Epigenetics"
 favicon: assets/AnVIL_style/anvil_favicon.ico
 ---
 
@@ -41,3 +41,4 @@ Learning objectives for this activity come from the [Genetics Core Competencies]
 Additional guides are provided to help you with Workspaces, launch interactive tools, and start working with data. Learn more about AnVIL by visiting https://anvilproject.org or reading the [article in Cell Genomics](https://www.sciencedirect.com/science/article/pii/S2666979X21001063).
 
 Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
+
