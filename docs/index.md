@@ -1,6 +1,6 @@
 ---
 title: "Epigenetics on AnVIL: Nature vs Nurture"
-date: "May 24, 2023"
+date: "August 06, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
