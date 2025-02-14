@@ -1,6 +1,6 @@
 ---
 title: "Epigenetics on AnVIL: Nature vs Nurture"
-date: "February 04, 2025"
+date: "February 14, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
