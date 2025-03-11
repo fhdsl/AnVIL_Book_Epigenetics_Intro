@@ -22,7 +22,7 @@ This course will teach learners to:
 - Discuss environmental impacts on epigenetic systems.
 - Describe how differential histone modification modulates gene activity and is utilized in developmental progression.
 
-Learning objectives for this activity come from the Genetics Core Competencies
+Learning objectives for this activity come from the [Genetics Core Competencies](https://genetics-gsa.org/education/genetics-learning-framework/).
 
 ## Encountering problems?
 
