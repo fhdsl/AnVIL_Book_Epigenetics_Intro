@@ -9,6 +9,7 @@ cgi
 ChIP
 chr
 dropdown
+Docx
 edu
 EMBL
 epigenetic
@@ -50,6 +51,7 @@ preprint
 RefSeq
 Rinn
 reproducibility
+Rmd
 RNAs
 subtracks
 underserved
