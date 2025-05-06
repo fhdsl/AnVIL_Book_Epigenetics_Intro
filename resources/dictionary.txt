@@ -9,7 +9,7 @@ cgi
 ChIP
 chr
 dropdown
-Docx
+docx
 edu
 EMBL
 epigenetic
