@@ -1,3 +1,10 @@
+billing
+create-google-billing-account
+add-terra-to-google-billing-account
+create-terra-billing-project
+add-members-to-google-billing-account
+set-alerts-for-google-billing
+view-spend-for-google-billing
 nature-versus-nurture
 epigenetics-in-the-media
 the-legacy-of-trauma-can-experiences-leave-a-biological-imprint
