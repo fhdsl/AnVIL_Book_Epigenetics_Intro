@@ -7,7 +7,7 @@ Modules about billing and Billing Projects on Google Cloud Platform and Terra.
 ## Create Google Billing Account
 
 ```{r, echo = FALSE, results='asis'}
-cow::borrow_chapter(
+ottrpal::borrow_chapter(
   doc_path = "child/_child_google_billing_create_account.Rmd",
   repo_name = "jhudsl/AnVIL_Template"
 )
@@ -16,7 +16,7 @@ cow::borrow_chapter(
 ## Add Terra to Google Billing Account
 
 ```{r, echo = FALSE, results='asis'}
-cow::borrow_chapter(
+ottrpal::borrow_chapter(
   doc_path = "child/_child_google_billing_add_terra.Rmd",
   repo_name = "jhudsl/AnVIL_Template"
 )
@@ -25,7 +25,7 @@ cow::borrow_chapter(
 ## Create Terra Billing Project
 
 ```{r, echo = FALSE, results='asis'}
-cow::borrow_chapter(
+ottrpal::borrow_chapter(
   doc_path = "child/_child_terra_billing_project_create.Rmd",
   repo_name = "jhudsl/AnVIL_Template"
 )
@@ -34,7 +34,7 @@ cow::borrow_chapter(
 ## Add Members to Google Billing Account
 
 ```{r, echo = FALSE, results='asis'}
-cow::borrow_chapter(
+ottrpal::borrow_chapter(
   doc_path = "child/_child_google_billing_add_member.Rmd",
   repo_name = "jhudsl/AnVIL_Template"
 )
@@ -43,7 +43,7 @@ cow::borrow_chapter(
 ## Set Alerts for Google Billing
 
 ```{r, echo = FALSE, results='asis'}
-cow::borrow_chapter(
+ottrpal::borrow_chapter(
   doc_path = "child/_child_google_billing_set_alerts.Rmd",
   repo_name = "jhudsl/AnVIL_Template"
 )
@@ -52,7 +52,7 @@ cow::borrow_chapter(
 ## View Spend for Google Billing
 
 ```{r, echo = FALSE, results='asis'}
-cow::borrow_chapter(
+ottrpal::borrow_chapter(
   doc_path = "child/_child_google_billing_view_spend.Rmd",
   repo_name = "jhudsl/AnVIL_Template"
 )
